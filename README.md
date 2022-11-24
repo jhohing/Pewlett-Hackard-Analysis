@@ -10,7 +10,7 @@ THis analysis is meant to determine the number of retiring employees per title a
 
 ![retirement_titles_pic](https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/retirement_titles.png)
 
-To download: [retirement_titles] (https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
+To download: [retirement_titles](https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
 
 - The unique_titles table was created by joining the employees and titles tables, Filtering them by date of birth and hired date, removing duplicates, and ordering by the date hired. There are a total of **72,458 employees retiring**.
 
@@ -26,7 +26,7 @@ To download the data: [retiring_titles.csv](https://github.com/jhohing/Pewlett-H
 
 ![mentorship_eligible_emps](https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/mentorship_eligible_emps.png)
 
-To download the data: [mentorship_eligibility.csv] (https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
+To download the data: [mentorship_eligibility.csv](https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
 ## Summary
 Based on the findings in my analysis, Pewlett Hackard could look at having 90,000 vacant positions company wide. Considering there are only 1,549 employees eligible for the mentorship program, Pewlett Hackard will not have enough qualified employees to mentor the the next generation.
@@ -57,4 +57,4 @@ ON e.emp_no = ut.emp_no
 ORDER BY ut.emp_no
 
 ````
-To download the data: [emp_tenure.csv] (https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/Data/emp_tenure.csv)
+To download the data: [emp_tenure.csv](https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/Data/emp_tenure.csv)
