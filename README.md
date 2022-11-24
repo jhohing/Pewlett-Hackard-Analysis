@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-###Purpose
+### Purpose
 THis analysis is meant to determine the number of retiring employees per title and identify the employees who are eligible to participate in a mentorship program. It will be used by Bobby's manager to prepare for the "silver tsunami" as current employees reach retirement age.
 
 ## Results
@@ -24,7 +24,7 @@ To download the data: [retiring_titles.csv](https://github.com/jhohing/Pewlett-H
 
 - The mentorship_eligibility table was created joining the employees, department employees, and titles tables. The data is filters to including employees that were born in 1965 and that are current working for Pewlett Hackard. This will determine if thesse employees are eligible for the mentorship program. There are 1,549 eligible employees.
 
-![mentorship_eligible_emps] (https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/mentorship_eligible_emps.png)
+![mentorship_eligible_emps](https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/mentorship_eligible_emps.png)
 
 To download the data: [mentorship_eligibility.csv] (https://github.com/jhohing/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
